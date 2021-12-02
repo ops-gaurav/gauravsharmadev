@@ -6,4 +6,4 @@
   - Philosophical Musings (Life and Philosophy): https://medium.com/philosophicalmusings
   - Revamp (Tech stuff): https://medium.com/sharma02gaurav
   - Travelscape (Travel): https://medium.com/travelescape
-- Checkout my hobby travel project at https://lifeinmybackpack.net
+- Checkout my hobby travel project at https://lifeinmybackpack.in

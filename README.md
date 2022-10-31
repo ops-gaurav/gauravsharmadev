@@ -1,8 +1,2 @@
 ### Hi there 👋
-- I am gaurav sharma. I am a backend engineer and DevOps practitioner.
-- I am currently getting my hands on machine learning and Data Science.
-- Check my medium profile https://lifeinmybackpack.medium.com. Also check out my publications:
-  - Philosophical Musings (Life and Philosophy): https://medium.com/philosophicalmusings
-  - Revamp (Tech stuff): https://medium.com/sharma02gaurav
-  - Travelscape (Travel): https://medium.com/travelescape
-- Checkout my hobby travel project at https://lifeinmybackpack.in
+This bio was written with a jinja2 template, rendering a cloudformation template for a Lambda, which was invoked by Terraform from a git commit that triggered a Jenkins job, which utilized a Groovy shared library, that took 2 days to write and still fails when someone forgets to put their JIRA ticket in the commit message. null
